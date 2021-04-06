@@ -134,3 +134,6 @@ censo %>%
 
 
 summary(censo)
+
+
+####PRUEBA
